@@ -1,0 +1,3 @@
+const supabaseURL = "https://ralhykepjefhqqusmjwn.supabase.co";
+const supabaseAnonKey =
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJhbGh5a2VwamVmaHFxdXNtanduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjYzMDE5NDksImV4cCI6MjA0MTg3Nzk0OX0.S4ogeBWCAa60KAkEkFeB_w317ccTYYlfsndsrBsgqgs";
